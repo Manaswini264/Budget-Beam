@@ -19,4 +19,4 @@ Why This Project Was Made
 I built BudgetBeam to create a budgeting tool that’s clean, fast, and doesn’t force you to sign up for anything. It’s meant to be simple enough for everyday tracking but still helpful and visual.
 
 Future Improvements
-Recurring transactions Custom category colors Summary reports across multiple months Optional cloud syn
+Recurring transactions Custom category colors Summary reports across multiple months Optional cloud sync
